@@ -1,0 +1,14 @@
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/stub/Master.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/stub/ReducerGrpc.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/service/KeyValueStoreService.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/stub/ShutDownGrpc.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/stub/Keyvalue.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/stub/StartMapReduceGrpc.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/client/Test2.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/grpcserver/KeyValueStoreServer.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/stub/MapperGrpc.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/server/Handler.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/client/Client.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/stub/KeyValueStoreGrpc.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/client/Tests.java
+/home/kasturi/Cloud Computing/keyvaluestore/src/main/java/server/Server.java
