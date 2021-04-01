@@ -39,7 +39,8 @@ Performance Evaluation
 •	Tested the server for 500 connections. It runs at least 500 connections. Test Cases can be found in keyvaluestore/src/main/java/client/.
 
 •	Did not encounter a connection refused on Server side for at least 500 client requests. Also, tested concurrently with one loop creating 500 clients and other creating 200 clients (Tests.java and Test2.java respectively).
-Errors and Future Scope
+
+### Errors and Future Scope
 Currently, the server throws a java.io.EOFException on EXIT, which is not handled. However, this exception does not hinder the performance and is a scope for further improvement.
 
 Future scope includes adding logging using log4j library in Java.
