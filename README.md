@@ -45,3 +45,12 @@ Currently, the server throws a java.io.EOFException on EXIT, which is not handle
 
 Future scope includes adding logging using log4j library in Java.
 
+### How to run 
+
+Multiple clients can be run by executing the client command in multiple terminals. 
+
+```
+cd keyvaluestore 
+java -cp target/keyvaluestore-0.0.1-SNAPSHOT.jar server.Server 
+java -cp target/keyvaluestore-0.0.1-SNAPSHOT.jar client.Client
+```
