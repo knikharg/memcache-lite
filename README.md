@@ -1,6 +1,6 @@
 # memcache-lite
 
-Implementation of the Memcache system, a distributed memory management system. The Memcache system reduces database overhead by loading and retrieving key value pairs in an efficient way. The assignment is a lite version implementation of the memcache server, storing and retrieving key-value pairs from concurrently connected clients.
+Implementation of the Memcache system, a memory management system. The Memcache system reduces database overhead by loading and retrieving key value pairs in an efficient way. The project is a lite version implementation of the memcache server, storing and retrieving key-value pairs from concurrently connected clients.
 Details on how to run can be found in README.txt 
 
 
