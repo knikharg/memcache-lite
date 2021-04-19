@@ -5,7 +5,7 @@ Details on how to run can be found in README.txt
 
 
 ##### Design Details -
-There are two parts to the system, the client and the server. While a server is listening on a port (5001), it can accept multiple client connections and serve multiple clients concurrently. The communication is achieved through socket programming, where a socket acts like an endpoint. Concurrency is achieved through multithreading. Once the server socket is created and the server is listening on the desired port, as a client connects to the port, the server accepts the connection, thus creating a new thread which is executed concurrently.
+There are two parts to the system, the client and the server. While a server is listening on a port (5001), it can accept multiple client connections and serve multiple clients concurrently. Communication is achieved through socket programming, where a socket acts like an endpoint. Concurrency is achieved through multithreading. Once the server socket is created and the server is listening on the desired port, as a client connects to the port, the server accepts the connection, thus creating a new thread which is executed.
 
 
 #### Design Decisions
